@@ -1,0 +1,13 @@
+{
+  "name": "DAYSPACE — Personal Diary",
+  "short_name": "DAYSPACE",
+  "description": "A peaceful anime-inspired personal diary and life organizer.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0b0b24",
+  "theme_color": "#0b0b24",
+  "icons": [
+    { "src": "./icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
